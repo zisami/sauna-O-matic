@@ -17,3 +17,7 @@
 **Hauptschalteinheit**: Verteilerkasten mit der Steuerung, den Leistungsschaltern und allen festen Verkabelungen.
 
 **Bedieneinheit**: Separates Touch-Bedienteil (Tab5) außerhalb der Kabine.
+
+**Sicherheitsschütz**: Schütz, das den Ofen allpolig trennt, sobald die Sicherheitskette öffnet. Es schaltet nur bei Start, Ende und Abschaltung, nie zur Regelung.
+
+**Regelschütz**: Schütz, das den Ofen zur Temperaturregelung ein- und ausschaltet. Es liegt in Reihe zum Sicherheitsschütz; ein Fehler am Regelschütz darf die Sicherheitskette nicht aushebeln.
