@@ -16,7 +16,11 @@
 
 **Hauptschalteinheit**: Verteilerkasten mit der Steuerung, den Leistungsschaltern und allen festen Verkabelungen.
 
-**Bedieneinheit**: Separates Touch-Bedienteil (Tab5) außerhalb der Kabine.
+**Bedieneinheit**: Rolle eines separaten Bediengeräts außerhalb der Kabine (z. B. Tab5, Dial, Tough); es können mehrere sein. Eine Bedieneinheit ist entweder *lokal* (fest in Kabinennähe) oder *fern*.
+
+**Scharfschalten**: Lokale Handlung an einer lokalen Bedieneinheit oder am Taster, ohne die kein Fernstart möglich ist.
+
+**Fernstart**: Start eines Saunaabends über die PWA oder Home Assistant, nur nach vorherigem Scharfschalten.
 
 **Sicherheitsschütz**: Schütz, das den Ofen allpolig trennt, sobald die Sicherheitskette öffnet. Es schaltet nur bei Start, Ende und Abschaltung, nie zur Regelung.
 
